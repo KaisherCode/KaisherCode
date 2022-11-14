@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Freddier-chavez
-- 👀 I’m interested in fronted developer
-- 🌱 I’m currently learning Python
+-  Hi, My name is Wilson Huerto 👋
+- 👀 I’m interested in  web Full-Stack developer
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on project web site
-- 📫 How to reach me ig @freddierchavez
+- 📫 How to reach me twitter @KaihserCode
 
 <!---
 Freddier-chavez/Freddier-chavez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
