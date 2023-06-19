@@ -1,4 +1,4 @@
-## Hi,👋 Mi nombre es Freddy Wilson
+## Hi,👋 Mi nombre es Wilson
 - 👀 I’m interested in  web Full-Stack developer
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on project web site
